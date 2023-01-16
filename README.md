@@ -2,13 +2,13 @@
 Download images from instagram
 
 # Usage
-```git clone https://github.com/tofi1130/Insta-Img-dl.git```
-
 ```instimgdl.py IMAGE_LINK -name OUTPUT_FILE_NAME```
 
 # Error Codes
 0: file downloaded successfully
+
 0: printed help message and exited
+
 1: no command line arguments supplied
 
 # Note
